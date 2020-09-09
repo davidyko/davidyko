@@ -5,7 +5,7 @@ Hey y'all! I'm David Ko, a Full-Stack Software Engineer looking for my next prof
 <br>
   
 - 📫 Email: ko.david.y@gmail.com
-- 👋 LinkedIn: linkedin.com/in/davidyko
+- 👋 LinkedIn: www.linkedin.com/in/davidyko
 - ⚡ Fun fact: I worked in mental health/social work in the past and their focus mindfulness, both as a coping tool and as an optimizing one, is something I would love to integrate into the tech space.
 
 <!--
